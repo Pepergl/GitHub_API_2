@@ -1,0 +1,26 @@
+{
+"Order ID": 125789,
+"Adress": "Av. san Martin 1710",
+"Status": "Ready",
+"Articles": [
+    {
+        "Name": "Hard Disk SSD 248 Gby",
+        "Price": "$ 35.000,00.-",
+        "Quanty": 5,
+        "Dangerous": false,
+    }
+    {
+        "Name": "NIC WiFI 1200",
+        "Price": "$ 25.000,00.-",
+        "Quanty": 3,
+        "Dangerous": false,
+    }
+    {
+        "Name": "Grasa Disipadora",
+        "Price": "$ 5.000,00.-",
+        "Quanty": 1,
+        "Dangerous": true,
+    }
+]
+
+}
